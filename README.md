@@ -16,6 +16,9 @@ The page states that comments have been taken down to "respect the impending App
 * The Met Police campaign differs significantly from others.
 * Over half of donations recorded by the API are attributable to a single user-ID.
 
+![cumulative donations](https://github.com/augeas/just_scraping/blob/master/met_crowdfunder_cumulative.png?raw=true)
+![distribution of dontations](https://github.com/augeas/just_scraping/blob/master/met_crowdfunder_distro.png?raw=true)
+
 You can experiment with capturing and investigating the data for yourself on [binderhub](https://mybinder.org)...
 
 
