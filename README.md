@@ -16,7 +16,12 @@ The page states that comments have been taken down to "respect the impending App
 * The Met Police campaign differs significantly from others.
 * Over half of donations recorded by the API are attributable to a single user-ID.
 
-One might run the spider, capturing date to a .csv file as follows:
+You can experiment with capturing and investigating the data for yourself on [binderhub](https://mybinder.org)...
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/augeas/just_scraping/master?labpath=met_crowdfund.ipynb)
+
+... or run the spider locally, capturing data to a .csv file as follows:
 
 ```
 git clone https://github.com/augeas/just_scraping.git
