@@ -6,7 +6,7 @@ This is a [Scrapy](https://scrapy.org/) [spider](https://docs.scrapy.org/en/late
 
 It was written to investigate crowd-funding for sacked Met Officers:
 
-In July 2020, the Metropoliton Police stopped, searched, and restrained athletes Bianca Williams and Ricardo dos Santos, on supposed suspicion of possesion of drugs and weapons, despite their child being present in their car. A [misconduct hearing](https://www.policeconduct.gov.uk/news/statement-following-misconduct-hearing-over-stop-and-search-bianca-williams-and-ricardo-dos) found that this was wholly unjustified, and two officers were dismissed for gross misconduct.
+In July 2020, the Metropolitan Police stopped, searched, and restrained athletes Bianca Williams and Ricardo dos Santos, on supposed suspicion of possesion of drugs and weapons, despite their child being present in their car. A [misconduct hearing](https://www.policeconduct.gov.uk/news/statement-following-misconduct-hearing-over-stop-and-search-bianca-williams-and-ricardo-dos) found that this was wholly unjustified, and two officers were dismissed for gross misconduct.
 
 Bianca Williams was [reportedly shocked](https://www.bbc.co.uk/news/uk-england-london-67261517) at the amount of money raised by a
 [crowd-funder](https://web.archive.org/web/20231031124058/https://www.justgiving.com/crowdfunding/Clapham-Franks) for the two officers.
