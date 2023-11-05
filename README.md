@@ -32,5 +32,5 @@ python3 -m venv just_scraping
 cd just_scraping
 source ./bin/activate
 pip install -r requirements.txt
-scrapy crawl crowdfunding -a' campaign=Clapham-Franks -o met.csv
+scrapy crawl crowdfunding -a campaign=Clapham-Franks -o met.csv
 ```
